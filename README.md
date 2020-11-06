@@ -1,4 +1,4 @@
-# CMSC176-EDA
+## CMSC176-EDA
 
 # GETTING FILES
 Open Terminal
