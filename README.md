@@ -1,18 +1,18 @@
 ## CMSC176-EDA
 
 # GETTING FILES
-Open Terminal
+Open Terminal <br />
 git clone https://github.com/Enzo-san/CMSC176-EDA
 
 # INSTALLATION
-Open Terminal
-#pip install jupyter notebook
-#pip install pandas
-#pip install numpy
-#pip install seaborn
+Open Terminal <br />
+pip install jupyter notebook <br />
+pip install pandas <br />
+pip install numpy <br />
+pip install seaborn <br />
 
 
 # SETUP
-Open Terminal
-jupyter notebook
-(Locate ipynb file)
+Open Terminal <br />
+jupyter notebook <br />
+(Locate ipynb file) <br /> 
