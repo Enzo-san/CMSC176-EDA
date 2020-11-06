@@ -1,7 +1,7 @@
 ## CMSC176-EDA
 
 # GETTING FILES
-Open Terminal
+Open Terminal <br />
 git clone https://github.com/Enzo-san/CMSC176-EDA
 
 # INSTALLATION
